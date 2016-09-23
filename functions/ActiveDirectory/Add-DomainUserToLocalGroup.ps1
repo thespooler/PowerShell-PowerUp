@@ -1,4 +1,4 @@
-function Add-DomainUserToLocalGroup{
+rfunction Add-DomainUserToLocalGroup{
 
 <#
 .DESCRIPTION
